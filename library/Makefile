@@ -1,7 +1,7 @@
 CC = gcc
 AR = ar
 CFLAGS = -g -Wall -O1
-CSRCS = addwithprint.c 
+CSRCS = addwithprint.s 
 LIBSRCS = cpe431util.c 
 LIB = libcpe431util.a 
 BIN = addwithprint
